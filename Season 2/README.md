@@ -8,7 +8,7 @@ Coming soon!
 1. Install [CurseForge](https://download.curseforge.com/).
 2. Select `Browse Modpacks` and search for `xxxx`.
 3. Click on the `Versions` tab and install `xxxx.zip`.
-> 🔴 You may begin part D (steps 14-16) while Euphoric Curiosity installs (it may take a while).
+> 🔴 You may begin part D (steps 14-16) while xxxx installs (it may take a while).
 
 ### B. Setup
 4. Click on the `My Modpacks` tab.
