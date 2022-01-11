@@ -1,3 +1,13 @@
+# CornyCorn SMMP Season 1 
+### (Inchlings Arc) | 22 Dec 2021 - Present
+
+> Inchlings: Joe, Eric, Chaital
+> 
+> Shipyard Workers: Matthew, Ali, Ryan
+> 
+> Unaffiliated: Shahzan
+
+# Instructions
 We will be using a modified version of Euphoric Curiosity as our modpack! Installation instructions are below. Please follow all instructions carefully.
 
 ### A. Installation
